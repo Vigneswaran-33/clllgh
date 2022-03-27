@@ -1,5 +1,4 @@
-import java.util.Scanner; 
-vfd
+import java.util.Scanner; \\\\\\\[[ppopo
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
